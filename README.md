@@ -1,4 +1,4 @@
-# EmbeddedVirtualPathProvider
+# EmbeddedResourceVirtualPathProvider
 
 --------------------------------------------------------------
 ------ Embedded Virtual Path Provider Readme -----------------
