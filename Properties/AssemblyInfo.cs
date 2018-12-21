@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Kahia.Web.VirtualPathProvider")]
+[assembly: AssemblyTitle("Kahia.EmbeddedResourceVirtualPathProvider")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("oguzhan.kahyaoglu")]
-[assembly: AssemblyProduct("Kahia.Web.VirtualPathProvider")]
+[assembly: AssemblyProduct("Kahia.EmbeddedResourceVirtualPathProvider")]
 [assembly: AssemblyCopyright("Copyright © oguzhan.kahyaoglu 2018")]
 [assembly: AssemblyTrademark("Not used by NuGet")]
 [assembly: AssemblyCulture("")]

@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reflection;
 
-namespace Kahia.Web.VirtualPathProvider
+namespace Kahia.EmbeddedResourceVirtualPathProvider
 {
     public static class EmbeddedResourceRepo
     {

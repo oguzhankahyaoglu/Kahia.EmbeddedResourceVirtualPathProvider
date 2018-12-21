@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Reflection;
 using System.Linq;
+using System.Reflection;
 using System.Web;
 using System.Web.Caching;
 using System.Web.Hosting;
 
-namespace Kahia.Web.VirtualPathProvider
+namespace Kahia.EmbeddedResourceVirtualPathProvider
 {
     public class EmbeddedResourceVirtualPathProvider : System.Web.Hosting.VirtualPathProvider
     {

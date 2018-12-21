@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Web.Caching;
 using System.Web.Hosting;
 
-namespace Kahia.Web.VirtualPathProvider
+namespace Kahia.EmbeddedResourceVirtualPathProvider
 {
     public class EmbeddedResource
     {

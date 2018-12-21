@@ -7,8 +7,8 @@
     <ProjectGuid>{41CE420B-4BD5-4BD0-B05A-22B1739FF3CA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Kahia.Web.VirtualPathProvider</RootNamespace>
-    <AssemblyName>Kahia.Web.VirtualPathProvider</AssemblyName>
+    <RootNamespace>Kahia.EmbeddedResourceVirtualPathProvider</RootNamespace>
+    <AssemblyName>Kahia.EmbeddedResourceVirtualPathProvider</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -20,7 +20,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bins\Kahia.Web.VirtualPathProvider.xml</DocumentationFile>
+    <DocumentationFile>bins\Kahia.EmbeddedResourceVirtualPathProvider.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -29,7 +29,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bins\Kahia.Web.VirtualPathProvider.xml</DocumentationFile>
+    <DocumentationFile>bins\Kahia.EmbeddedResourceVirtualPathProvider.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

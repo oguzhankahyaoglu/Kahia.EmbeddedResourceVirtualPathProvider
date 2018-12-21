@@ -4,7 +4,7 @@ using System.Net;
 using System.Web;
 using System.Web.Hosting;
 
-namespace Kahia.Web.VirtualPathProvider
+namespace Kahia.EmbeddedResourceVirtualPathProvider
 {
     internal class EmbeddedResourceVirtualFile : VirtualFile
     {

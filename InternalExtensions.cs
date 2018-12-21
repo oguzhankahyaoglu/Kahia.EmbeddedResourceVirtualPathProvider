@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Kahia.Web.VirtualPathProvider
+namespace Kahia.EmbeddedResourceVirtualPathProvider
 {
     internal static class InternalExtensions
     {

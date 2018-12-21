@@ -1,10 +1,9 @@
-﻿
-using System;
+﻿using System;
 using System.IO;
 using System.Net;
 using System.Web;
 
-namespace Kahia.Web.VirtualPathProvider
+namespace Kahia.EmbeddedResourceVirtualPathProvider
 {
     /// <summary>
     /// Etag gibi cache ile ilgili işlemleri içinde barındırmalı.
