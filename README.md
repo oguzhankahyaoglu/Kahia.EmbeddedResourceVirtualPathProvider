@@ -1,4 +1,4 @@
-# Kahia.Web.VirtualPathProvider
+# EmbeddedVirtualPathProvider
 
 --------------------------------------------------------------
 ------ Embedded Virtual Path Provider Readme -----------------
